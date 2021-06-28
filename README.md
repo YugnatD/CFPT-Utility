@@ -7,16 +7,16 @@ Ce projet a été réalisé pendant mon temps libre durant les deux ans de techn
 
 ## menu de login :
 (il est possible d'utiliser l'application en mode hors ligne)
-![Image login](image/login.png "Image login")
+![Image login](image/login.PNG "Image login")
 
 ## menu principal :
-![Image principale](image/principale.png "Image principale")
+![Image principale](image/principale.PNG "Image principale")
 
 ## Configuration des timers :
-![Image timer](image/timer.png "Image timer")
+![Image timer](image/timer.PNG "Image timer")
 
 ## Configuration des interruptions :
-![Image interruption](image/interruption.png "Image interruption")
+![Image interruption](image/interruption.PNG "Image interruption")
 
 ## Configuration de l'ADC :
-![Image adc](image/adc.png "Image adc")
+![Image adc](image/adc.PNG "Image adc")
