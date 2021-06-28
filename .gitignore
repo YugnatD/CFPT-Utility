@@ -1,3 +1,4 @@
 .DS_Store
-CFPT-Utility\Timer\bin\*
-CFPT-Utility\Timer\obj\*
+CFPT-Utility/Timer/bin/*
+CFPT-Utility/Timer/obj/*
+CFPT-Utility/.vs/
