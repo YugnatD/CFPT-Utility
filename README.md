@@ -1,16 +1,16 @@
 # CFPT Utility
-## but
+## But
 aider les élèves du CFPT a développer des projets avec le microcontrôleur C8051F38C (et C8051F320)
 
 ## Cadre du développement
 Ce projet a été réalisé pendant mon temps libre durant les deux ans de technicien.
 
-## menu de login :
+## Menu de login :
 (il est possible d'utiliser l'application en mode hors ligne)
 
 ![Image login](image/login.PNG "Image login")
 
-## menu principal :
+## Menu principal :
 ![Image principale](image/principale.PNG "Image principale")
 
 ## Configuration des timers :
